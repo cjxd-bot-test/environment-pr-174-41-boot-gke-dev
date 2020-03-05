@@ -7,7 +7,7 @@ dependencies:
   versionURL: ""
 - host: github.com
   owner: cb-kubecd
-  repo: bdd-sbrp-import-1583450215
-  url: https://github.com/cb-kubecd/bdd-sbrp-import-1583450215.git
+  repo: bdd-nh-import-1583450215
+  url: https://github.com/cb-kubecd/bdd-nh-import-1583450215.git
   version: ""
   versionURL: ""
